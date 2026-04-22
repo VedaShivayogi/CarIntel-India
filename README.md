@@ -49,7 +49,8 @@ IndianCar/
 1. **Clone the repository**:
    ```bash
    
-   git clone https://github.com/VedaShivayogi/CarIntel-India.git
+   git clone
+   https://github.com/VedaShivayogi/CarIntel-India
    ```
 2. **Launch the Dashboard**:
    Simply open `CarIntel_India_Dashboard.html` in any modern browser (Chrome, Edge, Safari, Firefox).
