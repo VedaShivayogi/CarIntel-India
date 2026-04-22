@@ -57,7 +57,4 @@ IndianCar/
 
 
 
-## 📝 License
-This project is for educational and portfolio purposes. Data is sourced from real-world Indian used car listings.
 
-*Developed with ❤️ as part of the Data Science Project Portfolio.*
