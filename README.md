@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 Experience the dashboard in real-time:
-👉 **[Launch CarIntel India Dashboard](https://your-demo-link-here.com)**
+👉 **[Launch CarIntel India Dashboard](https://vedashivayogi.github.io/CarIntel-India/CarIntel_India_Dashboard.html)**
 
 
 
