@@ -54,7 +54,7 @@ IndianCar/
 3. **Launch the Dashboard**:
    Simply open `CarIntel_India_Dashboard.html` in any modern browser (Chrome, Edge, Safari, Firefox).
 4. **Explore**:
-   Use the sidebar navigation and filter panel to interact with the data.
+   Use the sidebar navigation and filter panel to interact with the data..
 
 
 
